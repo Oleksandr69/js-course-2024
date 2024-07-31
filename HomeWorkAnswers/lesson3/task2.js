@@ -3,7 +3,7 @@ document.querySelector("#btn").onclick = function () {
     let day = toDate.getDay();
     // console.log(toDate.getDay());
     // console.log(typeof toDate.getDay());
-    // switch (toDate.getDay()) {
+    // switch (day) {
     //     case 0:
     //         alert("Сьогодні неділя");
     //         break;
